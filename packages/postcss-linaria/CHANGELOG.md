@@ -1,5 +1,11 @@
 # Change Log
 
+## 8.3.0
+
+### Patch Changes
+
+- 7c9d19cd: Stop installing Stylelint as a runtime dependency because it is only required by development tests.
+
 ## 8.2.0
 
 ### Patch Changes
